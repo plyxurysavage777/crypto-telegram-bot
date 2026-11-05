@@ -1,0 +1,14 @@
+# Секрети та дані користувачів
+token.txt
+.env
+bot_data.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Редактори та система
+.vscode/
+.DS_Store
